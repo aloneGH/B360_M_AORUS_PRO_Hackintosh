@@ -33,12 +33,12 @@ Hackintosh with OpenCore under B360 M Aorus Pro motherboard.
 * Model: iMac19,2
 * MacOS Version: 10.14.6
 * Bootloader Manager: `OpenCore 0.5.6`
-* Installation Guide: [r/hackintosh][https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/]
+* Installation Guide: [r/hackintosh](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
 
 
 ## Notice
 
 This motherboard can not disable CFG-Lock from BIOS settings, so there is something to do before installing. There are two options:
 
-* [Fixing CFG-Lock][https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/extras/msr-lock] (recommend)
+* [Fixing CFG-Lock](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/extras/msr-lock) (recommend)
 * Enable the following from config.plist under `Kernel` -> `Quirks`: `AppleCpuPmCfgLock`, `AppleXcpmCfgLock`
