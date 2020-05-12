@@ -4,7 +4,7 @@ Hackintosh with OpenCore under B360 M Aorus Pro motherboard.
 ## Specs:
 
 * `CPU`: Intel i3-8100
-* `Motherboard`: GigaByte B360 M Aorus Pro
+* `Motherboard`: Gigabyte B360 M Aorus Pro
 * `Memory`: Kingston DDR4 24000 32GB(8GBx4)
 * `Storage`: WDC SN500 NVMe 500GB
 * `Graphics`: Intel UHD Graphics 630
