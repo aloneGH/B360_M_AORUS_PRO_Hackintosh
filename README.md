@@ -32,7 +32,7 @@ Hackintosh with OpenCore under B360 M Aorus Pro motherboard.
 
 * Model: iMac19,2
 * MacOS Version: 10.14.6
-* Bootloader Manager: `OpenCore 0.5.6`
+* Bootloader Manager: `OpenCore 0.7.9`
 * Installation Guide: [r/hackintosh](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
 
 
